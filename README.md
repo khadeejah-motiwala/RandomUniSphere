@@ -9,7 +9,7 @@ To do this, theta should follow a probability density function (pdf) of sine, an
 
 Using the inverse transform sampling method, the theta coordinates are found to be acos(1-2u), where u is a random number from 0 to 1. Phi coodinates are (2pi u).
 
-These spherical coordinates are then converted to the cartesian system and plotted in a 3d projection. The output is such:
+These spherical coordinates are then converted to the cartesian system and plotted in a 3d projection.
 ![Screenshot](sphere.png)
 
 The number of points (N) can be varied.
